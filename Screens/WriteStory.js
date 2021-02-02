@@ -2,7 +2,7 @@ import React from 'react';
 import {Text, View, TextInput, TouchableOpacity, StyleSheet  } from 'react-native';
 import { Header } from 'react-native-elements';
 
-export default class Insta extends React.Component{
+export default class WriteStory extends React.Component{
     render() {
         return(
             <View style = {{flex:1, justifyContent: 'center', alignItems: 'center'}}>
